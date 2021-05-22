@@ -1,2 +1,0 @@
-print('xnmPlus')
-print('xnmPlus')
